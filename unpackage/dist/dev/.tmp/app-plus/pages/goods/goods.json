@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "titleNView": false,
+  "bounce": "none",
+  "usingComponents": {
+    "status": "/components/Status",
+    "goods-header": "/pages/goods/goodsHeader"
+  }
+}

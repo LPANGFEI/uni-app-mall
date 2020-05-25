@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "分类",
+  "titleNView": false,
+  "bounce": "none",
+  "usingComponents": {
+    "status": "/components/Status",
+    "page-header": "/components/PageHeader"
+  }
+}
